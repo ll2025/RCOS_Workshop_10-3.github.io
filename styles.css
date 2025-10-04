@@ -2,6 +2,14 @@ div {
   list-style-type: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
+li {
+  color:red
+}
+
 img {
   width:150px; 
   height:100px; 
