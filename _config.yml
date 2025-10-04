@@ -10,4 +10,3 @@ pluggins:
 - jekyll-remote-theme
 
 gem "github-pages", group: :jekyll_pluggins
-title: [Workshop Website]
