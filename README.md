@@ -3,3 +3,6 @@ Demo from Workshop on 10/3 for RCOS
 
 
 Visit the <a href = "https://ll2025.github.io/RCOS_Workshop_10-3.github.io/">website</a> for navigation.
+
+It includes a Home, About, and Other Page.
+On the About Page, it explains what this website is for. The Other Page includes an external link and an image of the Pinwheel Galaxy.
