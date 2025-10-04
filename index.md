@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: RCOS Workshop 10.3.2025
 ---
 
