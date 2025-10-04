@@ -7,5 +7,6 @@
       <li><h3><a href="page1.html">About</a></h3></li>
       <li><h3><a href="page2.html">Other</a></h3></li>
     </ul>
+    <h5>Welcome to the Home Page. Use the navigation bar above to go to the other pages.</h5>
   </body>
 </html>
