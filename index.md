@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: Workshop Website
 ---
 
 <h1>Home Page</h1>
