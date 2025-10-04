@@ -1,3 +1,12 @@
 ---
 layout: home
+title: RCOS Workshop 2
 ---
+
+[Markdown Language](#markdowns) | [Resources](#resources)
+<html>
+  <head>RCOS Workshop 10.3.2025</head>
+  <body>
+    <h1>Title</h1>
+  </body>
+</html>
