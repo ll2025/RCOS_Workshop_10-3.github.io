@@ -1,6 +1,13 @@
 # title: Hacker theme
 # description: Hacker is a theme
 # show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-hacker
 
-title: Workshop Website
-theme: jekyll-theme-hacker 
+# remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/architect 
+pluggins:
+- jekyll-remote-theme
+
+gem "github-pages", group: :jekyll_pluggins
+title: [Workshop Website]
